@@ -1,6 +1,3 @@
----
-typora-root-url: ..\imagens para readme
----
 
 # Site Serviços de Turismo - HTML e CSS - Flex Box
 

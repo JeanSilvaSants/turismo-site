@@ -1,3 +1,7 @@
+---
+typora-root-url: ..\imagens para readme
+---
+
 # Site Serviços de Turismo - HTML e CSS - Flex Box
 
 
@@ -8,10 +12,13 @@ Desenvolvimento de projeto de uma interface para um site de serviços para turis
 
 # Preview
 
-![1](C:\Users\jeand\OneDrive\Área de Trabalho\Jean\Programas Programação\Jean\DIO\Workspace\imagens para readme\1.png)
+![](/1.png)
 
-![2](C:\Users\jeand\OneDrive\Área de Trabalho\Jean\Programas Programação\Jean\DIO\Workspace\imagens para readme\2.png)
+![2](/2.png)
 
-![3](C:\Users\jeand\OneDrive\Área de Trabalho\Jean\Programas Programação\Jean\DIO\Workspace\imagens para readme\3.png)
+![3](/3.png)
 
-![4](C:\Users\jeand\OneDrive\Área de Trabalho\Jean\Programas Programação\Jean\DIO\Workspace\imagens para readme\4.png)
+![4](/4.png)
+
+
+

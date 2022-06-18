@@ -12,13 +12,11 @@ Desenvolvimento de projeto de uma interface para um site de serviços para turis
 
 # Preview
 
-![](/1.png)
+![1](/../viagens-projeto/img/1.png)
 
-![2](/2.png)
+![2](/../viagens-projeto/img/2.png)
 
-![3](/3.png)
+![3](/../viagens-projeto/img/3.png)
 
-![4](/4.png)
-
-
+![4](/../viagens-projeto/img/4.png)
 
